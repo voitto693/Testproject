@@ -1,3 +1,5 @@
 # Testiprojekti
 
-My first githubtest
+My first reposotory in githubtest
+
+I love coffee: pizza:, and dancer:
