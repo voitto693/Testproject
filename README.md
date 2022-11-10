@@ -2,4 +2,4 @@
 
 My first reposotory in githubtest
 
-I love coffee: pizza:, and dancer:
+I love coffee: pizza:, and dancer:.
